@@ -1,0 +1,14 @@
+layout_spectrum: 0.2741935
+color:
+  saturation: 0.588411
+  brandStrength: 0.4701314
+  lightness: 0.3004779
+  brandColors:
+    - '#0C0602'
+    - '#304121'
+    - '#653B42'
+    - '#AC6577'
+    - '#ABB3C6'
+  rhythmicContrast: 0.06471743
+typography_spectrum: 0.5525687
+name: 'Golf Sports Science '
